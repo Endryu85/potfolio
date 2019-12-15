@@ -1,12 +1,25 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Endryu85/potfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Endryu85/potfolio/issues"
+  },
+  "homepage": "https://github.com/Endryu85/potfolio#readme",
+  "description": ""
 }
